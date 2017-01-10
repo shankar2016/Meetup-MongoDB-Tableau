@@ -1,0 +1,10 @@
+Click the links for interactive visualizations
+
+Find your niche dashboard
+https://public.tableau.com/profile/dan.watson#!/vizhome/w205_book/MarketingDashboard
+
+Meetup with love dashboard
+https://public.tableau.com/profile/dan.watson#!/vizhome/Meetup_love/MeetupWLove
+
+Find a new location
+https://public.tableau.com/profile/dan.watson#!/vizhome/Meetup_Story/Story1
